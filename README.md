@@ -1,2 +1,2 @@
-# ReactComponent
+# ReactComponentJSX
 Created with CodeSandbox
